@@ -7,8 +7,6 @@
   
 - Hands-On Guide: https://developer.ibm.com/learningpaths/get-started-watson-assistant/assistant-powered-chatbot/
 
-- Slides: 
-
 - Workshop Replay: https://www.crowdcast.io/e/new-watson-assistant/register
 
 Survey Link: https://ibm.biz/BdfCU3
