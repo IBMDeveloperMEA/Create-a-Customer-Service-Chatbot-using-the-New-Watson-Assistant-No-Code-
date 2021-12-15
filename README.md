@@ -1,26 +1,27 @@
-# !!Add workshop title!!
+# Create a Customer Service Chatbot using the New Watson Assistant & No Code!
 
-Please refer to https://github.com/fawazsiddiqi/slides_to_pages to know how you can deploy slides to https://ibmdevelopermea.github.io
 
 ## Workshop Resources
 
-- Login/Sign Up for IBM Cloud: <Link>
+- Login/Sign Up for IBM Cloud: https://ibm.biz/newAssistant
   
-- Hands-On Guide: <Link>
+- Hands-On Guide: https://developer.ibm.com/learningpaths/get-started-watson-assistant/assistant-powered-chatbot/
 
-- Slides: <Link>
+- Slides: 
 
-- Workshop Replay: <Link>
+- Workshop Replay: https://www.crowdcast.io/e/new-watson-assistant/register
+
+Survey Link: https://ibm.biz/BdfCU3
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [Your title](#Your-title)  
+1. [About the Workshop](#About-the-Workshop)  
   
 ## Prerequisites
   
 ### **Sign-up/Login to IBM Cloud**
 
-If you are an existing user please [login to IBM Cloud](<PUT TRACK LINK HERE>)
+If you are an existing user please [login to IBM Cloud](https://ibm.biz/newAssistant)
 
 And if you are not, don't worry! We have got you covered! There are 3 steps to create your account on [IBM Cloud](<PUT TRACK LINK HERE>): <br>
 1- Put your email and password. <br>
@@ -31,30 +32,19 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 
-## About the Workshop - Copied from IBM Developer
+## About the Workshop
 
-## Architecture 
-  
-  Use the architecture on the IBM Developer - else edit it using the patterns 
-  Link for architecture: https://l2fprod.github.io/myarchitecture/ 
+The new Watson Assistant is now available! This new experience focused on using actions to build customer conversations, is designed to make it simple enough for anyone to build a virtual assistant (yes, anyone!). Building, testing, publishing, and analyzing your assistant can all now be done in one simple and intelligent interface, using natural language. You will be among the first few who get to learn and experience it first hand! 
 
-## Tutorial - Copied from IBM Developer
+In this workshop, you can use the tools provided by the Assistant service with skills that will directly help your customers. We will walk you through the process of creating your first Assistant-powered chatbot through its intuitive interface.
 
-## Sample Outputs
-
-## Workshop Resources
-
-- Login/Sign Up for IBM Cloud: <Link>
-
-- Hands-On Guide: <Link>
-
-- Slides: <Link>
-
-- Workshop Replay: <Link>
+Watson Assistant can help you solve a problem by providing an intelligent interface using natural language. You can use the tools provided by the Assistant service with skills that will directly help your customers. The flexibility of the GUI tools and APIs combine to allow you to power applications and tools using AI in simple and powerful ways.
 
 
-## Reference Links
   
 ## Done with the workshop? Here are some things you can try further
+- Watson Assistant Learning Path: https://developer.ibm.com/learningpaths/get-started-watson-assistant/
 
 ## Workshop Speakers
+- Anam Mahmood, Developer Advocate - https://www.linkedin.com/in/anam-mahmood-sheikh/
+- Hashim Noor, Client Technical Specialist - https://www.linkedin.com/in/hashim-noor/ 
