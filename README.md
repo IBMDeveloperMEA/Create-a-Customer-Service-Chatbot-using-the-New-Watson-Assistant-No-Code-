@@ -9,11 +9,11 @@
 
 - Workshop Replay: https://www.crowdcast.io/e/new-watson-assistant/register
 
-Survey Link: https://ibm.biz/BdfCU3
+- Survey Link: https://ibm.biz/BdfCU3
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
-1. [About the Workshop](#About-the-Workshop)  
+2. [About the Workshop](#About-the-Workshop)  
   
 ## Prerequisites
   
